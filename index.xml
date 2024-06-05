@@ -2,102 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maghreb Feed</title>
-    <link>https://blog.maghrebfeed.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Maghreb Feed</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jun 2024 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.maghrebfeed.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Exploring the Maghreb</title>
-      <link>https://blog.maghrebfeed.com/my-new-article-copy-10/</link>
+      <title>La Légalisation du Cannabis au Maroc : Une Nouvelle Ère pour l&#39;Économie et la Santé</title>
+      <link>http://localhost:1313/lal%C3%A9galisationducannabis-copy-2/</link>
       <pubDate>Mon, 03 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>https://blog.maghrebfeed.com/my-new-article-copy-10/</guid>
-      <description>Exploring the Maghreb The Maghreb region of North Africa is rich in history and culture. In this article, we explore some of its most fascinating destinations.</description>
-    </item>
-    <item>
-      <title>Exploring the Maghreb</title>
-      <link>https://blog.maghrebfeed.com/my-new-article-copy-11/</link>
-      <pubDate>Mon, 03 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>https://blog.maghrebfeed.com/my-new-article-copy-11/</guid>
-      <description>Exploring the Maghreb The Maghreb region of North Africa is rich in history and culture. In this article, we explore some of its most fascinating destinations.</description>
-    </item>
-    <item>
-      <title>Exploring the Maghreb</title>
-      <link>https://blog.maghrebfeed.com/my-new-article-copy-12/</link>
-      <pubDate>Mon, 03 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>https://blog.maghrebfeed.com/my-new-article-copy-12/</guid>
-      <description>Exploring the Maghreb The Maghreb region of North Africa is rich in history and culture. In this article, we explore some of its most fascinating destinations.</description>
-    </item>
-    <item>
-      <title>Exploring the Maghreb</title>
-      <link>https://blog.maghrebfeed.com/my-new-article-copy-13/</link>
-      <pubDate>Mon, 03 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>https://blog.maghrebfeed.com/my-new-article-copy-13/</guid>
-      <description>Exploring the Maghreb The Maghreb region of North Africa is rich in history and culture. In this article, we explore some of its most fascinating destinations.</description>
-    </item>
-    <item>
-      <title>Exploring the Maghreb</title>
-      <link>https://blog.maghrebfeed.com/my-new-article-copy-14/</link>
-      <pubDate>Mon, 03 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>https://blog.maghrebfeed.com/my-new-article-copy-14/</guid>
-      <description>Exploring the Maghreb The Maghreb region of North Africa is rich in history and culture. In this article, we explore some of its most fascinating destinations.</description>
-    </item>
-    <item>
-      <title>Exploring the Maghreb</title>
-      <link>https://blog.maghrebfeed.com/my-new-article-copy-2/</link>
-      <pubDate>Mon, 03 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>https://blog.maghrebfeed.com/my-new-article-copy-2/</guid>
-      <description>Exploring the Maghreb The Maghreb region of North Africa is rich in history and culture. In this article, we explore some of its most fascinating destinations.</description>
-    </item>
-    <item>
-      <title>Exploring the Maghreb</title>
-      <link>https://blog.maghrebfeed.com/my-new-article-copy-3/</link>
-      <pubDate>Mon, 03 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>https://blog.maghrebfeed.com/my-new-article-copy-3/</guid>
-      <description>Exploring the Maghreb The Maghreb region of North Africa is rich in history and culture. In this article, we explore some of its most fascinating destinations.</description>
-    </item>
-    <item>
-      <title>Exploring the Maghreb</title>
-      <link>https://blog.maghrebfeed.com/my-new-article-copy-4/</link>
-      <pubDate>Mon, 03 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>https://blog.maghrebfeed.com/my-new-article-copy-4/</guid>
-      <description>Exploring the Maghreb The Maghreb region of North Africa is rich in history and culture. In this article, we explore some of its most fascinating destinations.</description>
-    </item>
-    <item>
-      <title>Exploring the Maghreb</title>
-      <link>https://blog.maghrebfeed.com/my-new-article-copy-5/</link>
-      <pubDate>Mon, 03 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>https://blog.maghrebfeed.com/my-new-article-copy-5/</guid>
-      <description>Exploring the Maghreb The Maghreb region of North Africa is rich in history and culture. In this article, we explore some of its most fascinating destinations.</description>
-    </item>
-    <item>
-      <title>Exploring the Maghreb</title>
-      <link>https://blog.maghrebfeed.com/my-new-article-copy-6/</link>
-      <pubDate>Mon, 03 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>https://blog.maghrebfeed.com/my-new-article-copy-6/</guid>
-      <description>Exploring the Maghreb The Maghreb region of North Africa is rich in history and culture. In this article, we explore some of its most fascinating destinations.</description>
-    </item>
-    <item>
-      <title>Exploring the Maghreb</title>
-      <link>https://blog.maghrebfeed.com/my-new-article-copy-9/</link>
-      <pubDate>Mon, 03 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>https://blog.maghrebfeed.com/my-new-article-copy-9/</guid>
-      <description>Exploring the Maghreb The Maghreb region of North Africa is rich in history and culture. In this article, we explore some of its most fascinating destinations.</description>
-    </item>
-    <item>
-      <title>Exploring the Maghreb</title>
-      <link>https://blog.maghrebfeed.com/my-new-article-copy/</link>
-      <pubDate>Mon, 03 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>https://blog.maghrebfeed.com/my-new-article-copy/</guid>
-      <description>Exploring the Maghreb The Maghreb region of North Africa is rich in history and culture. In this article, we explore some of its most fascinating destinations.</description>
-    </item>
-    <item>
-      <title>Exploring the Maghreb</title>
-      <link>https://blog.maghrebfeed.com/my-new-article/</link>
-      <pubDate>Mon, 03 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>https://blog.maghrebfeed.com/my-new-article/</guid>
-      <description>Exploring the Maghreb The Maghreb region of North Africa is rich in history and culture. In this article, we explore some of its most fascinating destinations.</description>
+      <guid>http://localhost:1313/lal%C3%A9galisationducannabis-copy-2/</guid>
+      <description>Rabat, Maroc – Le Maroc se prépare à entrer dans une nouvelle phase économique et sociale avec la prochaine mise en vente de produits dérivés du cannabis.</description>
     </item>
   </channel>
 </rss>
