@@ -1,13 +1,13 @@
 backend:
   name: git-gateway
-  branch: main # Branch to update (master by default)
-media_folder: "static/uploads" # Media files will be stored in the static/uploads directory
-public_folder: "/uploads" # URL to access uploaded media files
+  branch: main # Branch to update (main by default)
+media_folder: "images/uploads" # Media files will be stored in the images/uploads directory
+public_folder: "/images/uploads" # URL to access uploaded media files
 
 collections:
-  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+  - name: "blog"
     label: "Blog"
-    folder: "content/blog"
+    folder: "page"
     create: true
     slug: "{{slug}}"
     fields:
