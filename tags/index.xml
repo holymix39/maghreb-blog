@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>Commerce</title>
+      <link>http://localhost:1313/tags/commerce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/commerce/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Maghreb</title>
       <link>http://localhost:1313/tags/maghreb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -27,6 +34,13 @@
       <link>http://localhost:1313/tags/travel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>USA</title>
+      <link>http://localhost:1313/tags/usa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/usa/</guid>
       <description></description>
     </item>
   </channel>
