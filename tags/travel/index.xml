@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel on Maghreb Feed</title>
-    <link>http://localhost:1313/tags/travel/</link>
+    <link>https://blog.maghrebfeed.com/tags/travel/</link>
     <description>Recent content in Travel on Maghreb Feed</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jun 2024 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.maghrebfeed.com/tags/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Légalisation du Cannabis au Maroc : Une Nouvelle Ère pour l&#39;Économie et la Santé</title>
-      <link>http://localhost:1313/lal%C3%A9galisationducannabis-copy-2/</link>
+      <link>https://blog.maghrebfeed.com/lal%C3%A9galisationducannabis/</link>
       <pubDate>Mon, 03 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lal%C3%A9galisationducannabis-copy-2/</guid>
+      <guid>https://blog.maghrebfeed.com/lal%C3%A9galisationducannabis/</guid>
       <description>Rabat, Maroc – Le Maroc se prépare à entrer dans une nouvelle phase économique et sociale avec la prochaine mise en vente de produits dérivés du cannabis.</description>
     </item>
     <item>
       <title>Les Effets de l&#39;Accord de Libre Échange Maroc-USA sur l&#39;Économie Locale</title>
-      <link>http://localhost:1313/les-effets-de-laccord-de-libre-%C3%A9change-maroc-usa-sur-l%C3%A9conomie-locale/</link>
+      <link>https://blog.maghrebfeed.com/les-effets-de-laccord-de-libre-%C3%A9change-maroc-usa-sur-l%C3%A9conomie-locale/</link>
       <pubDate>Mon, 03 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/les-effets-de-laccord-de-libre-%C3%A9change-maroc-usa-sur-l%C3%A9conomie-locale/</guid>
-      <description>Les Effets de l&amp;rsquo;Accord de Libre Échange Maroc-USA sur l&amp;rsquo;Économie Locale En 2006, le Maroc et les États-Unis ont signé un Accord de Libre Échange (ALE), un moment historique dans les relations bilatérales entre les deux pays.</description>
+      <guid>https://blog.maghrebfeed.com/les-effets-de-laccord-de-libre-%C3%A9change-maroc-usa-sur-l%C3%A9conomie-locale/</guid>
+      <description>En 2006, le Maroc et les États-Unis ont signé un Accord de Libre Échange (ALE), un moment historique dans les relations bilatérales entre les deux pays.</description>
     </item>
   </channel>
 </rss>

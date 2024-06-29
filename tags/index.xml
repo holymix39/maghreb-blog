@@ -2,45 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Maghreb Feed</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://blog.maghrebfeed.com/tags/</link>
     <description>Recent content in Tags on Maghreb Feed</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jun 2024 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jun 2024 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.maghrebfeed.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aid</title>
+      <link>https://blog.maghrebfeed.com/tags/aid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/tags/aid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>France</title>
+      <link>https://blog.maghrebfeed.com/tags/france/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/tags/france/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Front National</title>
+      <link>https://blog.maghrebfeed.com/tags/front-national/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/tags/front-national/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maroc</title>
+      <link>https://blog.maghrebfeed.com/tags/maroc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/tags/maroc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mouton</title>
+      <link>https://blog.maghrebfeed.com/tags/mouton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/tags/mouton/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Politique</title>
+      <link>https://blog.maghrebfeed.com/tags/politique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/tags/politique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prix</title>
+      <link>https://blog.maghrebfeed.com/tags/prix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/tags/prix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistiques</title>
+      <link>https://blog.maghrebfeed.com/tags/statistiques/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/tags/statistiques/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Todivorce</title>
+      <link>https://blog.maghrebfeed.com/tags/todivorce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/tags/todivorce/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Industrie</title>
+      <link>https://blog.maghrebfeed.com/tags/industrie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/tags/industrie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Port</title>
+      <link>https://blog.maghrebfeed.com/tags/port/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/tags/port/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Electrique</title>
+      <link>https://blog.maghrebfeed.com/tags/electrique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/tags/electrique/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cannabis</title>
-      <link>http://localhost:1313/tags/cannabis/</link>
+      <link>https://blog.maghrebfeed.com/tags/cannabis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cannabis/</guid>
+      <guid>https://blog.maghrebfeed.com/tags/cannabis/</guid>
       <description></description>
     </item>
     <item>
       <title>Commerce</title>
-      <link>http://localhost:1313/tags/commerce/</link>
+      <link>https://blog.maghrebfeed.com/tags/commerce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/commerce/</guid>
+      <guid>https://blog.maghrebfeed.com/tags/commerce/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Douane</title>
+      <link>https://blog.maghrebfeed.com/tags/douane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/tags/douane/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hotels</title>
+      <link>https://blog.maghrebfeed.com/tags/hotels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/tags/hotels/</guid>
       <description></description>
     </item>
     <item>
       <title>Maghreb</title>
-      <link>http://localhost:1313/tags/maghreb/</link>
+      <link>https://blog.maghrebfeed.com/tags/maghreb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/maghreb/</guid>
+      <guid>https://blog.maghrebfeed.com/tags/maghreb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marhaba2024</title>
+      <link>https://blog.maghrebfeed.com/tags/marhaba2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/tags/marhaba2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tanger</title>
+      <link>https://blog.maghrebfeed.com/tags/tanger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/tags/tanger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tourisme</title>
+      <link>https://blog.maghrebfeed.com/tags/tourisme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/tags/tourisme/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/tags/travel/</link>
+      <link>https://blog.maghrebfeed.com/tags/travel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/travel/</guid>
+      <guid>https://blog.maghrebfeed.com/tags/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>USA</title>
-      <link>http://localhost:1313/tags/usa/</link>
+      <link>https://blog.maghrebfeed.com/tags/usa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/usa/</guid>
+      <guid>https://blog.maghrebfeed.com/tags/usa/</guid>
       <description></description>
     </item>
   </channel>
