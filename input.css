@@ -1,0 +1,87 @@
+/* assets/input.css */
+
+/* Import Tailwind's base styles */
+@import 'tailwindcss/base';
+
+/* Import Tailwind's component styles */
+@import 'tailwindcss/components';
+
+/* Import Tailwind's utility styles */
+@import 'tailwindcss/utilities';
+
+/* Add any custom styles here */
+.roboto-big {
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}    
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+} 
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}  
+.montserrat-bold {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.text1 {
+    color: #D4CFD1; 
+}
+.text4 {
+    color: #CCC; 
+}
+
+.text2 {
+    color: #168687; 
+}
+.text3 {
+    color: #9e9035; 
+}
+
+
+
+.darkbg {
+    background-color: #141414;
+}
+.color15 {
+    background-color: #1C1C1D;
+}
+
+.color2 {
+    background-color: #268287;
+}
+
+.color3 {
+    background-color: #D9D9D9;
+}
+
+.font1 {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: bold;
+}
+
+.font2 {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+.custom-underline {
+    text-decoration: none; /* Remove default underline */
+}
+
+.custom-underline:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 0.1em; /* Adjust the thickness as needed */
+}

@@ -2,17 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.maghrebfeed.com/</loc>
-    <lastmod>2024-08-18T14:44:29+00:00</lastmod>
-  </url><url>
     <loc>https://blog.maghrebfeed.com/dfgdfgdfgdg/</loc>
-    <lastmod>2024-08-07T12:00:00+00:00</lastmod>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.maghrebfeed.com/tags/aid/</loc>
-    <lastmod>2024-06-29T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.maghrebfeed.com/evolution-du-prix-du-mouton/</loc>
-    <lastmod>2024-06-29T12:00:00+00:00</lastmod>
+    <loc>https://blog.maghrebfeed.com/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.maghrebfeed.com/tags/france/</loc>
     <lastmod>2024-06-29T12:00:00+00:00</lastmod>
@@ -29,13 +23,7 @@
     <loc>https://blog.maghrebfeed.com/tags/maroc/</loc>
     <lastmod>2024-06-29T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.maghrebfeed.com/tags/mouton/</loc>
-    <lastmod>2024-06-29T12:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.maghrebfeed.com/tags/politique/</loc>
-    <lastmod>2024-06-29T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.maghrebfeed.com/tags/prix/</loc>
     <lastmod>2024-06-29T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.maghrebfeed.com/tags/statistiques/</loc>
@@ -47,6 +35,18 @@
     <loc>https://blog.maghrebfeed.com/tags/todivorce/</loc>
     <lastmod>2024-06-29T12:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://blog.maghrebfeed.com/tags/aid/</loc>
+    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.maghrebfeed.com/evolution-du-prix-du-mouton/</loc>
+    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.maghrebfeed.com/tags/mouton/</loc>
+    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.maghrebfeed.com/tags/prix/</loc>
+    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.maghrebfeed.com/tags/industrie/</loc>
     <lastmod>2024-06-10T12:00:00+00:00</lastmod>
   </url><url>
@@ -57,10 +57,10 @@
     <lastmod>2024-06-10T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.maghrebfeed.com/tags/electrique/</loc>
-    <lastmod>2024-06-07T12:00:00+00:00</lastmod>
+    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.maghrebfeed.com/le-maroc-nouveau-centre-de-production-de-batteries-de-voitures-%C3%A9lectriques-avec-la-gigafactory-de-gotion-high-tech--une-r%C3%A9volution-industrielle-cr%C3%A9atrice-demplois/</loc>
-    <lastmod>2024-06-07T12:00:00+00:00</lastmod>
+    <lastmod>2024-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.maghrebfeed.com/campagne-marhaba-2024--facilitation-du-retour-des-marocains-r%C3%A9sidant-%C3%A0-l%C3%A9tranger/</loc>
     <lastmod>2024-06-03T12:00:00+00:00</lastmod>
