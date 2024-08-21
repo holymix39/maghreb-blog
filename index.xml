@@ -113,5 +113,12 @@
       <guid>https://blog.maghrebfeed.com/my-new-blog-post/</guid>
       <description></description>
     </item>
+    <item>
+      <title></title>
+      <link>https://blog.maghrebfeed.com/this/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.maghrebfeed.com/this/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
